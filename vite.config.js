@@ -1,5 +1,5 @@
 export default defineConfig({
-  base: '/<repository-name>/',
+  base: '/PomodoroTimer/',
   plugins: [react()],
   // ... existing code ...
 }) 
